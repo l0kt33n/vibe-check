@@ -23,6 +23,15 @@ I (the "developer") didn't write this README. I didn't write the CSS. I definite
 
 This tool is a hypocrite. It uses AI to judge you for using AI. It is the Spider-Man pointing meme in software form.
 
+## 📸 Screenshots
+
+### The Landing Page
+![Landing Page](./assets/landing.png)
+
+### The Verdict
+![Result Page](./assets/result.png)
+*(Analysis of [l0kt33n/vibe-check](https://github.com/l0kt33n/vibe-check) - Spoiler: It scored high)*
+
 ## 🚀 Features
 
 - **The Vibe Meter**: A glowing gauge that judges your soul.
