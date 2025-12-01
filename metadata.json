@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Code Detector",
+  "description": "Analyzes GitHub repositories to determine if they were 'vibe coded' using AI assistants like Cursor, Windsurf, or Copilot.",
+  "requestFramePermissions": []
+}
